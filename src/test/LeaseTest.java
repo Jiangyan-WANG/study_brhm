@@ -1,11 +1,8 @@
 package test;
 
-import main.exercise_2a.Lease;
-import org.junit.Before;
+import main.exercise_2.Lease;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import java.nio.file.FileAlreadyExistsException;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,4 +1,4 @@
-package main.exercise_2a;
+package main.exercise_2;
 
 public class Lease {
     private String name;
